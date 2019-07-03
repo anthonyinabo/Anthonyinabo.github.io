@@ -1,0 +1,71 @@
+
+div.buttons{
+	display: flex;
+	margin-top: 10px;
+	margin-right: 10px;
+	justify-content: flex-end;
+}
+
+div.buttons div a{
+	margin:10px;
+	color: black;
+}
+
+button{
+	visibility: hidden;
+}
+
+svg.svg{
+	visibility: visible;
+	height: 20px;
+	color: grey;
+	border-width: 1px;
+}
+
+svg.svg:hover{
+	color: black;
+}
+
+div.container{
+	display: flex;
+	justify-content: center;
+	margin-top: 15%;
+}
+
+img{
+	margin-left: 30%;
+	line-height: 20px;
+	padding-bottom: 20px;
+	position: relative;
+}
+
+
+input.form-control{
+	width: 120%;
+	height: 50px;
+	border-radius: 30px;
+	padding-right: 0px;
+	position: relative;
+	font: 16px arial,sans-serif;
+}
+
+div.search{
+display: flex;
+justify-content: center;
+margin: 30px;
+margin-left: 100px;	 
+}
+
+div.search input.btn{
+font-size: 14px;
+margin: 10px;
+color: #5F6368;
+}
+
+div.search input.btn:hover{
+color: black;
+border : solid 1px #cccc;
+}
+
+
+
