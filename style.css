@@ -67,5 +67,10 @@ color: black;
 border : solid 1px #cccc;
 }
 
-
-
+ div.footer {
+  background-color: #ebebeb;
+  padding: 20px;
+  width: 100%;
+  position: absolute;
+  bottom : 0;
+  }
